@@ -7,7 +7,7 @@ Como um iniciante em React Native, estou me esforçando para aprender a tecnolog
 <img width="300px" height="520px" src="https://user-images.githubusercontent.com/104960654/225929388-9f7d666f-718d-4188-9abf-7fb84ef06e70.png">
 </div>
 
-## 🚀 | Tecnologiaa:
+## 🚀 | Tecnologias:
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 <details>
 <summary> React Native :</summary>
